@@ -1,0 +1,90 @@
+body {
+    direction: rtl;
+    background-image: url(../photo/Background.jpeg);
+    background-repeat: repeat-y;
+    
+    background-size:1800px;
+    height: 100%;
+    width: 100%;
+}
+
+a.LINK:link, a.LINK:visited {
+  background-color: powderblue;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.LINK:hover, .btn btn-outline-dark:active {
+  background-color: white;
+}
+
+footer {
+    background-color: black;
+    margin: 0;
+    padding: 15px;
+    padding-right: 50px;
+}
+
+footer p {
+       margin: 0;
+    color: #fff;
+}
+
+footer p a{
+    color: #fff;
+}
+p.footer {text-align: center;
+   
+  background-image: url(../photo/footer.jpg);
+
+}
+.hh{
+  text-align:left;
+}
+
+.data-sec{
+  text-align:left;
+}
+
+.bb{
+  text-align: center;
+}
+.aa{
+  text-align: center;
+}
+.gg{
+  background-image: url(../photo/2قناة-السويس.jpg);
+}
+.ll{
+  background-image: url(../photo/tbl_articles_article_32235_8990ba30e04-9a73-43f5-9f1a-2b4190a5b47d.jpg);
+}
+.oo{
+  background-image: url(../photo/iStock-1404450332_Nine-characteristics-of-great-teamwork_v1-scaled.jpg);
+}
+.pp{
+  text-align: center;
+}
+.lead{
+  text-align: left;
+}
+.nn{
+  text-align: left;
+}
+.intro{
+  text-align: left;
+}
+.leadd{
+  text-align: left;
+}
+ul,ul li,ol li { 
+  margin-left: 0;
+  padding-left: 0;list-style-position:inside ;
+  text-align: left;
+  direction: ltr;
+  unicode-bidi: embed;
+
+}
+
