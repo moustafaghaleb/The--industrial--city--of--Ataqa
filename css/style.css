@@ -7,11 +7,7 @@ body {
     height: 100%;
     width: 100%;
 }
-   @media (min-width: 992px) {
-      #introCarousel {
-        margin-top: -58.59px;
-      }
-    }
+  
 @media screen and (max-width: 1200px) {
 .menu {
   width: 100%;
