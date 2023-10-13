@@ -7,7 +7,17 @@ body {
     height: 100%;
     width: 100%;
 }
+@media screen and (max-width: 1200px) {
+.menu {
+  width: 100%;
+}
+}
 
+@media screen and (min-width: 1200px) {
+.menu {
+  width: 30%;
+}
+}
 a.LINK:link, a.LINK:visited {
   background-color: powderblue;
   color: black;
